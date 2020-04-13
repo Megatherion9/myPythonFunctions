@@ -1,3 +1,7 @@
-## myPythonFunctions
+## Misc Python Functions
 
-Misc Python Functions  Includes: -> Strings Manipulation -> Lists Operations -> Tuples Operations
+### Includes:
+
+-> Strings Manipulation 
+-> Lists Operations
+-> Tuples Operations
